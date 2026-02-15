@@ -1,5 +1,4 @@
-![P2GONE's GitHub stats](https://github-readme-stats.vercel.app/api?username=P2GONE&show_icons=true&theme=radical)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=P2GONE&layout=compact&theme=radical)
 <br/>
 
 ![C](https://img.shields.io/badge/C-1A1A1A?style=for-the-badge&logo=c&logoColor=white)
