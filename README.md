@@ -1,4 +1,4 @@
-![P2GONE's GitHub stats](https://github-readme-stats.vercel.app/api?username=P2GONE&show_icons=true&theme=radical)
+![streak](https://streak-stats.demolab.com?user=P2GONE&theme=radical)
 
 ![C](https://img.shields.io/badge/C-1A1A1A?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-1A1A1A?style=for-the-badge&logo=cplusplus&logoColor=white)
