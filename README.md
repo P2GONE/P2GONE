@@ -1,5 +1,5 @@
 ![streak](https://streak-stats.demolab.com?user=P2GONE&theme=radical)
-![snake](https://github.com/P2GONE/P2GONE/blob/output/github-contribution-grid-snake.svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70000&width=435&lines=Linux+Kernel+Contributor;Security+Researcher;CTF+Player)](https://git.io/typing-svg)
 
 ![C](https://img.shields.io/badge/C-1A1A1A?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-1A1A1A?style=for-the-badge&logo=cplusplus&logoColor=white)
